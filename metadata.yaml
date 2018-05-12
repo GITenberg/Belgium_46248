@@ -1,0 +1,38 @@
+_repo: Belgium_46248
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Forestier, A. (Amédée)
+    aliases:
+    - Forestier, A. (Amedee)
+    - Forestier, Amédée
+    birthdate: 1854
+    deathdate: 1930
+    gutenberg_agent_id: '34030'
+    url: http://www.gutenberg.org/2009/agents/34030
+covers:
+- cover_type: archival
+  image_path: 46248-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Omond, George W. T. (George William Thomson)
+    alias: Omond, G. W. T. (George William Thomson)
+    birthdate: 1846
+    deathdate: 1929
+    gutenberg_agent_id: '8182'
+    url: http://www.gutenberg.org/2009/agents/8182
+    wikipedia: https://en.wikipedia.org/wiki/George_William_Thomson_Omond
+description: ''
+gutenberg_issued: '2014-07-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '46248'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Belgium -- Description and travel'
+- !lcc 'DH'
+title: Belgium
+url: http://www.gutenberg.org/ebooks/46248
